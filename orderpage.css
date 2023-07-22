@@ -1,0 +1,72 @@
+.op{
+    background-image: url(https://www.logoground.com/uploads11/dv11y202247832022-11-023280962PREVIEW.jpg);
+    display: flex;
+    flex-wrap: wrap;
+    animation: alternate;
+    animation-duration: 5s;
+}
+.h{
+    color: gold;
+    font-style: initial;
+    text-align: center;
+}
+.fd{
+    text-align: center;
+    margin: 30px 30px 50px;
+    color: whitesmoke;
+    font-size: larger;
+    display: inline-block;
+}
+.fm{
+    color: blue;
+    display: inline-block;
+    border-style: double;
+}
+.dk{
+    text-align: center;
+    margin: 30px 30px 50px;
+    color: whitesmoke;
+    font-size: larger;
+    display: inline-block;
+}
+.dkm{
+    color: darkblue;
+    display: inline-block;
+}
+.Coffee{
+    text-align: center;
+    margin: 30px 30px 50px;
+    color: whitesmoke;
+    font-size: larger;
+    display: inline-block;
+}
+.cfm{
+    color: darkblue;
+    display: inline-block;
+}
+.bbq{
+    text-align: center;
+    margin: 30px 30px 50px;
+    color: whitesmoke;
+    font-size: larger;
+    display: inline-block;
+}
+.bbqm{
+    color: darkblue;
+    border-style: double;
+}
+.pay{
+    color: antiquewhite;
+    display:inline-block;
+    display: flex;
+    justify-content: space-around;
+    margin: 10px 30px 30px;
+}
+.b{
+    border-radius: 20px;
+    border-style: ridge;
+    padding: 10px;
+    margin: 30px 30px 50px;
+    background-color: antiquewhite;
+    color: purple;
+}

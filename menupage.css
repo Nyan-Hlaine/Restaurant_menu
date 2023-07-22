@@ -1,0 +1,60 @@
+.site {
+    background-image: url(https://www.logoground.com/uploads11/dv11y202247832022-11-023280962PREVIEW.jpg);
+    border-image-width: 50%;
+    display: flex;
+    flex-wrap: wrap;
+    animation: alternate;
+    animation-duration: 5s;
+}
+.head{
+    text-align: center;
+    font-size: 50px;
+    color: green;
+    margin-bottom: 15px;
+}
+.span{
+    margin: 400px;
+    font-size: 25px;
+    color: aquamarine;
+}
+.food{
+    display: inline-block;
+    color:azure;
+    font-size: 20px;
+    font-style: italic;
+    margin: 10px 15px 8px;
+}
+
+.drink{
+    display: inline-block;
+    margin: 10px 15px 8px;
+    color:aquamarine;
+    font-size: 20px;
+    font-weight: 500;
+    font-style:italic;
+}
+.bbq{
+    display: inline-block;
+    margin: 10px 15px 8px;
+    font-size: 20px;
+    font-style: italic;
+    font-size: 20px;
+    color:aqua;
+}
+.coffee{
+    display: inline-block;
+    margin: 10px 15px 8px;
+    font-size: 20px;
+    font-style: italic;
+    font-size: 20px;
+    color: bisque;
+}
+.button{
+    border-radius: 15px;
+    padding: 5px 8px 5px;
+    margin: 10px 15px 8px;
+    border-color: ghostwhite;
+    color: blue;
+    font-style: oblique;
+    font-weight: bold;
+}
